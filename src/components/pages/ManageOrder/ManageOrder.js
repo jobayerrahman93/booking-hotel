@@ -67,9 +67,6 @@ const ManageOrder = () => {
 
 
 
-
-
-
     return (
         <div className="manage-order">
 

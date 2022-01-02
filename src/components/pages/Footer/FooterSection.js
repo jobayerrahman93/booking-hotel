@@ -7,8 +7,8 @@ const FooterSection = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4 col-lg-4 col-sm-12">
-                        <h3>About Traveller</h3>
-                        <p className="text-secondary mt-5">Traveller is one of the best booking service in the world</p>
+                        <h3>About Booking</h3>
+                        <p className="text-secondary mt-5">Booking is one of the best booking service in the world</p>
                         <p className="mt-3 text-secondary"> We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
                     </div>
                     <div className="col-md-4 col-lg-4 col-sm-12">
